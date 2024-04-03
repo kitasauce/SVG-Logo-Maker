@@ -9,9 +9,8 @@ Clone this repository using the HTTPS method or downloading ZIP in the same sect
 ## Usage
 1. Download code from github
 2. Open the teminal in the main folder in an application like VS code 
-3. npm init -y to initialize the project 
-4. npm install inquirer@8.2.4
-5. run node index.js to begin 
+3. npm install inquirer@8.2.4
+4. run node index.js to begin 
 
 Please refer to this video for detailed instructions: 
 
